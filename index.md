@@ -42,17 +42,3 @@ __Hebei University of Economics and Business__
 
 - Bachelor of Finance
 
-## Projects
-
-### Claim Waybill Prediction
-
-### Underweight Waybill Detection
-
-## Skills
-
-### Data Application
-
-### Data Engineering
-
-### Software Engineering
-
