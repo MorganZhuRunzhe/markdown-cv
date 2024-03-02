@@ -52,7 +52,7 @@ __Hebei University of Economics and Business__
 For customers with a strong willingness to file claims and for consignments that are more prone to damage, we predict the claim probability of the waybill on the fly and implement appropriate risk control strategies in advance. Strategies include restricting the shipping of high-risk users or reinforcing the packaging of consigned items, to reduce claim losses.
 
 `Solution`
-1. Developed and maintained both online and offline data pipelines, handling over a billion records for model training and real-time inference. This included PySpark techniques for log transformations, normalization, and calculations of ranking and ratio, significantly enhancing model performance and stability.
+- Developed and maintained both online and offline data pipelines, handling over a billion records for model training and real-time inference. This included PySpark techniques for log transformations, normalization, and calculations of ranking and ratio, significantly enhancing model performance and stability.
 
 `Performance`
 Compared to the original rule-based model, the new deep learning model has tripled the precision under the same amount of recommended waybills. It also identifies 43% more high-risk waybills, ultimately increasing the average saved claim amount per waybill by 50%.
