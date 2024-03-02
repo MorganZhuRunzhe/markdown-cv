@@ -2,12 +2,14 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Morgan Zhu
+Data mining engineer with 2 years of experience in risk control.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a>+86 15952881126</a>
+| <a href="morganzhurunzhe@gmail.com">MorganZhuRunzhe@gmail.com</a>
+| <a href="https://morganzhurunzhe.github.io/markdown-cv/">Github</a>
+| <a href="https://www.linkedin.com/in/morgan-zhu-107bab153/">Linkedin</a>
 </div>
 
 
