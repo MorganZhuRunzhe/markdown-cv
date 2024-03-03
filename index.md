@@ -20,11 +20,6 @@ Data mining engineer with 2 years of experience in risk control.
 __SF Express__
 
 - Enhanced operational efficiency and financial performance by developing a Deep and Cross Network (DCN) model, which tripled the precision of the baseline model and identified **43%** more high-risk waybills, ultimately boosting average claim savings per waybill by **50%**.
-  
-- Achieved a **120 million** RMB reduction in potential revenue losses by deploying an XGBoost model, combined with the streaming data processing pipeline, which expanded suspect underweight waybill detection coverage to **53.9%**.
-  
-- Collaborated with frontline staff and public security to develop a drug detection model, overcoming extremely imbalanced data challenge (**imbalance ratio: 10 : 30,000,000 * 365**). The new model increased recall rate by **200%**, significantly enhancing public safety.
-
 
 ## Education
 
