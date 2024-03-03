@@ -19,7 +19,7 @@ Data mining engineer with 2 years of experience in risk control.
 `2021/07 - 2023/06`
 __SF Express__
 
-- Enhanced operational efficiency and financial performance by developing a Deep and Cross Network (DCN) model, which tripled the precision of the baseline model and identified **43%** more high-risk waybills, ultimately boosting average claim savings per waybill by **50%**.
+- **1.** Enhanced operational efficiency and financial performance by developing a Deep and Cross Network (DCN) model, which tripled the precision of the baseline model and identified **43%** more high-risk waybills, ultimately boosting average claim savings per waybill by **50%**.
 
 ## Education
 
@@ -42,9 +42,6 @@ __The University of New South Wales__
 __Hebei University of Economics and Business__
 
 - Bachelor of Finance
-
-
-
 
 ## Projects
 
