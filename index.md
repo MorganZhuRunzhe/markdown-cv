@@ -49,7 +49,7 @@ __Hebei University of Economics and Business__
 
 ### Claim Waybill Prediction
 `Background`
-For customers with a strong willingness to file claims and for consignments that are more prone to damage, we predict the claim probability of the waybill on the fly and implement appropriate risk control strategies in advance.
+For customers with a strong willingness to file claims and for consignments that are more prone to damage, our team predict the claim probability of the waybill on the fly and implement appropriate risk control strategies in advance.
 
 `Solution`
 - **1.** Implemented balanced data sampling and preprocessing pipeline on over a billion records with PySpark. 
@@ -64,15 +64,15 @@ Compared to the original rule-based model, the new deep learning model has tripl
 To mitigate revenue losses from delivery personnel underreporting consignment weights to seek higher commissions, our team developed a predictive model to flag suspect underweight waybills, enabling compliance staff to conduct targeted reweighing.
 
 `Solution`
-- * Developed a streaming data processing and enrichment workflow that integrates several key technologies—Kafka for messaging, Spark Streaming for processing, HBase for enrichment, and Redis for fast feature access.
-- **2.** Developed a feature engineering pipeline, focusing on extracting trend and seasonality information from time-series data and embedding categorical data with high cardinality into compact vectors via a pre-trained Word2Vec model.
-- **3.** Developed a pre-defined rule-based model for interpretable prediction of an underweight waybill and also trained and fine-tuned an XGBoost model on over one billion waybills, achieving a threefold increase in precision compared to the baseline model.
-- **4.** Automated the XGBoost model re-training pipeline within a Spark ecosystem and persisted the model to HDFS regularly.
-- **5.** Designed and implemented a dynamic data dashboard for traffic monitoring, KPI tracking, and trend visualizations, to support swift decision-making. 
+- **1.** Orchestrated a data processing pipeline leveraging Kafka, Spark Streaming, HBase, and Redis for real-time messaging, processing, enrichment, and feature retrieval.
+- **2.** Developed a feature engineering pipeline to analyze time-series trends, seasonality, and encode high-cardinality categorical data using Word2Vec.
+- **3.** Implemented a rule-based model for interpretable prediction. Supplemented it with an XGBoost model trained on over one billion waybills, tripling the precision of the baseline model.
+- **4.** Automated the model re-training pipeline within a Spark ecosystem and persisted the model to HDFS regularly.
+- **5.** Designed a dynamic data dashboard for inspection traffic monitoring, KPI tracking, and trend analysis to support swift decision-making. 
 
 `Impact`
-- **1.** Covered 53.9% of waybills under the product segments of express delivery, fast freight, and international e-commerce (the older solution's coverage was 7.9%).
-- **2.** Saved a total of 120 million RMB in losses in 2023.
+- **1.** Enhanced coverage to 53.9% for key segments including express delivery, fast freight, and international e-commerce, a significant leap from the previous 7.9%.
+- **2.** Achieved a substantial financial impact by saving 120 million RMB in potential losses for the year 2023 through detective interventions informed by the model.
 
 ## Skills
 
