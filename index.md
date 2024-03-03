@@ -52,12 +52,12 @@ __Hebei University of Economics and Business__
 For customers with a strong willingness to file claims and for consignments that are more prone to damage, our team predict the claim probability of the waybill on the fly and implement appropriate risk control strategies in advance.
 
 `Solution`
-- **1.** Implemented balanced data sampling and preprocessing pipeline on over a billion records with PySpark. 
+- **1.** Implemented a balanced data sampling and preprocessing pipeline on over a billion records with PySpark, for model performance and stability. 
 - **2.** Developed the Deep and Cross Network (DCN) to learn feature interactions across different orders without manual feature engineering with PyTorch. 
-- **3.** Containerized the DCN model as a RESTful API with FastAPI and Docker, deploying it to an internal PaaS. This setup achieved high concurrency and low latency, enabling efficient real-time inference.
+- **3.** Containerized the DCN model as a RESTful API with FastAPI and Docker, deployed on an internal PaaS for robust real-time inference.
 
 `Impact`
-Compared to the original rule-based model, the new deep learning model has tripled the precision under the same amount of recommended waybills. It also identifies 43% more high-risk waybills, ultimately increasing the average saved claim amount per waybill by 50%.
+Compared to the baseline model, the deep learning model has tripled the precision and identified 43% more high-risk waybills, boosting the average claim savings per waybill by 50%, significantly impacting operational efficiency and financial performance.
 
 ### Underweight Waybill Detection
 `Background`
@@ -71,8 +71,7 @@ To mitigate revenue losses from delivery personnel underreporting consignment we
 - **5.** Designed a dynamic data dashboard for inspection traffic monitoring, KPI tracking, and trend analysis to support swift decision-making. 
 
 `Impact`
-- **1.** Enhanced coverage to 53.9% for key segments including express delivery, fast freight, and international e-commerce, a significant leap from the previous 7.9%.
-- **2.** Achieved a substantial financial impact by saving 120 million RMB in potential losses for the year 2023 through detective interventions informed by the model.
+By leveraging model-informed interventions, the project significantly expanded coverage to 53.9% (up from 7.9%) across key segments like express delivery, fast freight, and international e-commerce, and saved 120 million RMB in potential losses for 2023.
 
 ## Skills
 
