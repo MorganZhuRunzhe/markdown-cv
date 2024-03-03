@@ -52,7 +52,9 @@ __Hebei University of Economics and Business__
 For customers with a strong willingness to file claims and for consignments that are more prone to damage, we predict the claim probability of the waybill on the fly and implement appropriate risk control strategies in advance.
 
 `Solution`
-**1.** Implemented balanced data sampling and preprocessing pipeline on over a billion records with PySpark.  **2.** Developed the Deep and Cross Network (DCN) to learn feature interactions across different orders without manual feature engineering with PyTorch.  **3.** Containerized the DCN model as a RESTful API with FastAPI and Docker, deploying it to an internal PaaS. This setup achieved high concurrency and low latency, enabling efficient real-time inference.
+**1.** Implemented balanced data sampling and preprocessing pipeline on over a billion records with PySpark. 
+**2.** Developed the Deep and Cross Network (DCN) to learn feature interactions across different orders without manual feature engineering with PyTorch. 
+**3.** Containerized the DCN model as a RESTful API with FastAPI and Docker, deploying it to an internal PaaS. This setup achieved high concurrency and low latency, enabling efficient real-time inference.
 
 `Performance`
 Compared to the original rule-based model, the new deep learning model has tripled the precision under the same amount of recommended waybills. It also identifies 43% more high-risk waybills, ultimately increasing the average saved claim amount per waybill by 50%.
