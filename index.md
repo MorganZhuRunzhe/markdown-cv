@@ -75,18 +75,21 @@ By leveraging model-informed interventions, the project significantly expanded c
 
 ## Skills
 
-`Data Application`
+`Data`
+`Application`
 - Machine Learning with Interpertability
 - Machine Learning with Imbalanced Data
 - Deep Learning with Structured Data
 - Data Visualization
 - Data Analysis
   
-`Data Engineering`
+`Data` 
+`Engineering`
 - Batch Processing: Hive SQL, Spark SQL
 - Streaming Processing: Spark Streaming
 
-`Software Engineering`
+`Software` 
+`Engineering`
 - Development: Python(Django, FastAPI)
 - Deployment: Docker
 - CI/CD: Github
