@@ -16,7 +16,7 @@ Data mining engineer with 2 years of experience in risk control.
 
 ## Work
 
-`2021/07 - 2023/06`
+`2021 - 2023`
 __SF Express__
 
 - **1.** Enhanced operational efficiency and financial performance by developing the claim waybill prediction model, which **tripled** the precision of the baseline model and identified **43%** more high-risk waybills, ultimately boosting average claim savings per waybill by **50%**.
@@ -25,22 +25,22 @@ __SF Express__
 
 ## Education
 
-`2023/02 - Current`
+`2023 - Current`
 __The University of Sydney__
 
 - Master of Information Technology(Software Engineering)
 
-`2018/07 - 2021/05`
+`2018 - 2021`
 __The University of New South Wales__
 
 - Master of Information Technology(Artificial Intelligence and Data Science and Engineering)
 
-`2017/07 - 2018/07`
+`2017 - 2018`
 __The University of New South Wales__
 
 - Study Abroad Program(Information System)
 
-`2017/07 - 2018/07`
+`2017 - 2018`
 __Hebei University of Economics and Business__
 
 - Bachelor of Finance
