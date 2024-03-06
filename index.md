@@ -45,7 +45,7 @@ __The University of New South Wales__
 - Study Abroad Program(Information System)
 
 `2014/09 - 2017/06`
-__Hebei University of Economics and Business__
+__The Hebei University of Economics and Business__
 
 - Bachelor of Finance
 
