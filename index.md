@@ -2,6 +2,7 @@
 layout: cv
 title: Morgan Zhu's CV
 
+
 ---
 
 # Morgan Zhu
@@ -15,9 +16,11 @@ Data mining engineer with 2 years of experience in risk control.
 | <a href="https://www.linkedin.com/in/morgan-zhu-107bab153/">Linkedin</a>
 </div>
 
+
+
 ## Work
 
-`2021 - 2023`
+`2021/07 - 2023/06`
 __SF Express__
 
 - **1.** Achieved a **120 million** RMB reduction in potential revenue losses by deploying an underweight waybill detection model, combined with the data processing pipeline, which expanded suspect waybill detection coverage from **7.9%** to **53.9%**.
@@ -26,22 +29,22 @@ __SF Express__
 
 ## Education
 
-`2023 - Current`
+`2023/02 - Current`
 __The University of Sydney__
 
 - Master of Information Technology(Software Engineering)
 
-`2018 - 2021`
+`2018/07 - 2021/05`
 __The University of New South Wales__
 
 - Master of Information Technology(Artificial Intelligence and Data Science and Engineering)
 
-`2017 - 2018`
+`2017/07 - 2018/07`
 __The University of New South Wales__
 
 - Study Abroad Program(Information System)
 
-`2014 - 2017`
+`2014/09 - 2017/06`
 __Hebei University of Economics and Business__
 
 - Bachelor of Finance
@@ -80,7 +83,7 @@ Compared to the baseline model, the deep learning model has tripled the precisio
 
 ## Skills
 
-`Application`
+`Data Application`
 
 - Machine Learning with Interpertability
 - Machine Learning with Imbalanced Data
@@ -88,9 +91,13 @@ Compared to the baseline model, the deep learning model has tripled the precisio
 - Data Visualization
 - Data Analysis
 
-`Engineering`
+`Data Engineering`
+
 - Batch Processing: Hive SQL, Spark SQL
 - Streaming Processing: Spark Streaming
+
+`Software Engineering`
+
 - Development: Python(Django, FastAPI)
 - Deployment: Docker
 - CI/CD: Github
