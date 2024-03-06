@@ -1,8 +1,11 @@
 ---
 layout: cv
 title: Morgan Zhu's CV
+
 ---
+
 # Morgan Zhu
+
 Data mining engineer with 2 years of experience in risk control.
 
 <div id="webaddress">
@@ -14,9 +17,10 @@ Data mining engineer with 2 years of experience in risk control.
 
 
 
+
 ## Work
 
-`2021 - 2023`
+`2021/07 - 2023/06`
 __SF Express__
 
 - **1.** Enhanced operational efficiency and financial performance by developing the claim waybill prediction model, which **tripled** the precision of the baseline model and identified **43%** more high-risk waybills, ultimately boosting average claim savings per waybill by **50%**.
@@ -25,22 +29,22 @@ __SF Express__
 
 ## Education
 
-`2023 - Current`
+`2023/02 - Current`
 __The University of Sydney__
 
 - Master of Information Technology(Software Engineering)
 
-`2018 - 2021`
+`2018/07 - 2021/05`
 __The University of New South Wales__
 
 - Master of Information Technology(Artificial Intelligence and Data Science and Engineering)
 
-`2017 - 2018`
+`2017/07 - 2018/07`
 __The University of New South Wales__
 
 - Study Abroad Program(Information System)
 
-`2017 - 2018`
+`2017/07 - 2018/07`
 __Hebei University of Economics and Business__
 
 - Bachelor of Finance
@@ -48,10 +52,12 @@ __Hebei University of Economics and Business__
 ## Projects
 
 ### Claim Waybill Prediction
+
 `Background`
 For customers with a strong willingness to file claims and for consignments that are more prone to damage, our team predict the claim probability of the waybill on the fly and implement appropriate risk control strategies in advance.
 
 `Solution`
+
 - **1.** Implemented a balanced data sampling and preprocessing pipeline on over a billion records with PySpark, for model performance and stability. 
 - **2.** Developed the Deep and Cross Network (DCN) to learn feature interactions across different orders without manual feature engineering with PyTorch. 
 - **3.** Containerized the DCN model as a RESTful API with FastAPI and Docker, deployed on an internal PaaS for robust real-time inference.
@@ -60,10 +66,12 @@ For customers with a strong willingness to file claims and for consignments that
 Compared to the baseline model, the deep learning model has tripled the precision and identified 43% more high-risk waybills, boosting the average claim savings per waybill by 50%, significantly impacting operational efficiency and financial performance.
 
 ### Underweight Waybill Detection
+
 `Background`
 To mitigate revenue losses from delivery personnel underreporting consignment weights to seek higher commissions, our team developed a predictive model to flag suspect underweight waybills, enabling compliance staff to conduct targeted reweighing.
 
 `Solution`
+
 - **1.** Orchestrated a data processing pipeline leveraging Kafka, Spark Streaming, HBase, and Redis for real-time messaging, processing, enrichment, and feature retrieval.
 - **2.** Developed a feature engineering pipeline to analyze time-series trends, seasonality, and encode high-cardinality categorical data using Word2Vec.
 - **3.** Implemented a rule-based model for interpretable prediction. Supplemented it with an XGBoost model trained on over one billion waybills, tripling the precision of the baseline model.
@@ -75,16 +83,21 @@ By leveraging model-informed interventions, the project significantly expanded c
 
 ## Skills
 
-`Application`
+`Data Application`
+
 - Machine Learning with Interpertability
 - Machine Learning with Imbalanced Data
 - Deep Learning with Structured Data
 - Data Visualization
 - Data Analysis
 
-`Engineering`
-- Streaming Processing: Spark Streaming
+`Data Engineering`
+
 - Batch Processing: Hive SQL, Spark SQL
+- Streaming Processing: Spark Streaming
+
+`Software Engineering`
+
 - Development: Python(Django, FastAPI)
 - Deployment: Docker
 - CI/CD: Github
@@ -92,5 +105,3 @@ By leveraging model-informed interventions, the project significantly expanded c
 <!-- ### Footer
 
 Last updated: May 2024 -->
-
-
