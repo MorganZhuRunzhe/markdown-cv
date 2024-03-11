@@ -88,8 +88,8 @@ Compared to the baseline model, the deep learning model has tripled the precisio
 - Machine Learning with Interpertability
 - Machine Learning with Imbalanced Data
 - Deep Learning with Structured Data
-- Data Visualization
-- Data Analysis
+- Data Visualization: matplotlib
+- Data Analysis: pandas, scikit-learn
 
 `Data Engineering`
 
