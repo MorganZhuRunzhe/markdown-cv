@@ -93,8 +93,9 @@ Compared to the baseline model, the deep learning model has tripled the precisio
 
 `Data Engineering`
 
-- Batch Processing: Hive SQL, Spark SQL
+- Batch Processing: Hive SQL, Spark SQL, DBT
 - Streaming Processing: Spark Streaming
+- Data Warehouse: Hive, Snowflake
 
 `Software Engineering`
 
