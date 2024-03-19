@@ -55,27 +55,6 @@ __The Hebei University of Economics and Business__
 
 
 
-## Skills
-
-`Application`
-
-- Machine Learning with Interpertability
-- Machine Learning with Imbalanced Data
-- Deep Learning with Structured Data
-- Data Visualization
-- Data Analysis
-
-`Engineering`
-
-- Batch Processing: Hive SQL, Spark SQL, DBT
-- Streaming Processing: Spark Streaming
-- Data Warehouse: Hive, Snowflake
-- Development: Python(Django, FastAPI)
-- Deployment: Docker
-- CI/CD: Github
-
-
-
 ## Projects
 
 ### Claim Waybill Prediction
@@ -107,6 +86,27 @@ To mitigate revenue losses from delivery personnel under-reporting consignment w
 
 `Impact`
 By leveraging model-informed interventions, the project significantly expanded coverage to 53.9% (up from 7.9%) across key segments like express delivery, fast freight, and international e-commerce, and saved 120 million RMB in potential losses for 2023.
+
+
+
+## Skills
+
+`Application`
+
+- Machine Learning with Interpertability
+- Machine Learning with Imbalanced Data
+- Deep Learning with Structured Data
+- Data Visualization
+- Data Analysis
+
+`Engineering`
+
+- Batch Processing: Hive SQL, Spark SQL, DBT
+- Streaming Processing: Spark Streaming
+- Data Warehouse: Hive, Snowflake
+- Development: Python(Django, FastAPI)
+- Deployment: Docker
+- CI/CD: Github
 
 <!-- ### Footer
 
