@@ -13,7 +13,7 @@ Data mining engineer with 2 years of experience in risk control.
 <div id="webaddress">
 <a>+61 452166575</a>
 | <a href="morganzhurunzhe@gmail.com">MorganZhuRunzhe@gmail.com</a>
-| <a href="https://morganzhurunzhe.github.io/markdown-cv/">Github</a>
+| <a href="https://github.com/MorganZhuRunzhe">Github</a>
 | <a href="https://www.linkedin.com/in/morgan-zhu-107bab153/">Linkedin</a>
 </div>
 
